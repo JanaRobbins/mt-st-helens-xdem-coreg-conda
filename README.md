@@ -1,5 +1,4 @@
-# xDEM Co-registration for
-# Mount St. Helens crater glacier and lava dome analysis
+# xDEM Co-registration for Mount St. Helens crater glacier and lava dome analysis
 
 This project applies DEM co-registration and uncertainty assessment for Mount St. Helens crater using the `xDEM` Python library.
 
