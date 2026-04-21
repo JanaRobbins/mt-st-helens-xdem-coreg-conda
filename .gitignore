@@ -2,5 +2,5 @@ __pycache__/
 *.pyc
 .vscode/
 .idea/
-output/
+output/*.tif
 data/*.tif
