@@ -53,10 +53,10 @@ MASK_PATH = DATA_DIR / "stable_mask.tif"
 
 Co-registration reduced elevation differences on stable terrain:
 
-| DEM  | NMAD Before | NMAD After | Shift X  | Shift Y | Shift Z   |
-|------|-------------|------------|----------|---------|-----------|
-| 2008 | 2.206073 m  | 2.158566 m |  -0.43 m | -3.16 m |  -4.49 m  |  
-| 2023 | 2.589211 m  | 1.876958 m |   +0.70   | -6.83 m | -24.46 m  |
+| DEM  | NMAD Before | NMAD After | Shift X  | Shift Y | Shift Z    |
+|------|-------------|------------|----------|---------|------------|
+| 2008 | 2.206073 m  | 2.158566 m |  -0.43 m | -3.16 m | -4.49 m    |  
+| 2023 | 2.589211 m  | 1.876958 m |   +0.70   | -6.83 m | -24.46 m   |
 
 
 ## Credits
