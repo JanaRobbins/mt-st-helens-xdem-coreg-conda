@@ -5,7 +5,7 @@
 This project applies DEM co-registration and uncertainty assessment for Mount St. Helens crater using the `xDEM` Python library.
 
 ## DEM Data
-- **1984 DEMs** – aerial photogrammetric DEMs (10 m resolution)  
+- **1984 DEMs** – aerial photogrammetric DEMs (18 Septempber 1984, 10 m resolution)  
 - **2008 DEM** – [ALOS World 3D (AW3D30) DSM](https://earth.esa.int/eogateway/catalog/alos-prism-l1b) (resampled to 10 m) 
 - **2023 DEM** – [USGS 3DEP 1/3 arc-second DEM](https://earthexplorer.usgs.gov/) (latest acqusition date 28 June 2023, ~10 m)  
 
