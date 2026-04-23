@@ -11,7 +11,7 @@ This project applies DEM co-registration and uncertainty assessment for Mount St
 
 ## Input data
 
-Place the following files inside the `data/` folder:
+Place the following files inside the `data` folder:
 
 - `dem_1984.tif` - reference DEM
 - `dem_2008.tif` - DEM to align
